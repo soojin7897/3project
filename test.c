@@ -20,6 +20,9 @@ int main(int argc, char *argv[]) {
 //amend 3 
 //reorder 1 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 //reorder 2 
 //reorder 3 
+=======
+//reorder 2 
